@@ -1,0 +1,36 @@
+  div {
+            text-align: center;
+            background-color: red;
+            padding: 20px;
+        }
+
+        a {
+            transition: all 0.4s ease-in-out;
+            text-decoration: none;
+            background-color: antiquewhite;
+            padding: 5px;
+            border-radius: 10px;
+            color: black;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+                         'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        a:hover {
+            border: 2px salmon solid;
+            color: white;
+            background-color: black;
+            font-weight: 900;
+        }
+        h2{
+            color: red;
+        }
+        h5{
+            text-align: center;
+        }
+        img :hover{
+            border-radius: 20px;
+            border: red 9px solid;
+            transition: all 0.4ms ease-in-out;
+            width: 830px;
+            height: 480px;
+        }
